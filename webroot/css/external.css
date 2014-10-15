@@ -1,0 +1,40 @@
+.dataTables_empty{
+	text-align: center;
+}
+.sidebar-first #content{
+	margin-left: 0px;
+	width: 100%;
+}
+.region-sidebar-first .block-menu .menu li {
+	border-top: 0px;
+}
+.ui-widget {
+	font-size: .85em;
+}
+.ui-tabs-vertical {
+	font-size: .85em;
+	width: 62em;
+}
+table.nocolor tr{
+	background-color:transparent;
+	border-bottom:0px;
+}
+table tr.pname {
+	background-color: #6699CC;
+  color:#fff
+}
+.comment {
+	background-color: #f0f0f0;
+	padding:5px 5px;
+  margin:0 5px
+}
+.morecontent span {
+	display: none;
+
+}
+div.fullpage a {
+	font-weight: bold;
+}
+table.noborder tr{ border:none }
+table.noborder .odd .comment{ background:#fff }
+#tabs{ font-size:0.8em }
